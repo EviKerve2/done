@@ -1,4 +1,4 @@
-﻿from Funktsioonid import *
+﻿from Funktsioonid import*
 users=loe_failist_listisse("users.txt")
 passwords=loe_failist_listisse("passwords.txt")
 print(users)
